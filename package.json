@@ -1,0 +1,32 @@
+{
+  "name": "@elnemer70/dedupe",
+  "version": "1.0.0",
+  "description": "Remove duplicate lines while keeping order",
+  "bin": {
+    "dedupe": "index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/smoke.js"
+  },
+  "keywords": [
+    "cli",
+    "developer-tools",
+    "dedupe",
+    "unique",
+    "lines"
+  ],
+  "author": "ElNeMeR70",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElNeMeR70/dedupe.git"
+  },
+  "homepage": "https://github.com/ElNeMeR70/dedupe#readme",
+  "bugs": {
+    "url": "https://github.com/ElNeMeR70/dedupe/issues"
+  }
+}
